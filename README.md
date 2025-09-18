@@ -93,9 +93,10 @@ README.md
 ## ▶️Link to the dataset used.
 Pick the metadata csv - (https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
-## Installation
+## 📦Installation
 1. Clone this repo
 2. Navigate to the project folder
 3. Create & activate a virtual environment
 4. Run:
    pip install -r requirements.txt
+
